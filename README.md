@@ -16,6 +16,10 @@ Don't forget to give the project a star! Thanks again!
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
+## Contributors
+
+In no particular order: [obelix](https://github.com/loelkes), [Tree](https://github.com/Tr33Bug), [madonius](https://github.com/madonius), [stored](https://github.com/storedcc), [tufftuff](https://github.com/ratzupaltuff), [nervengift](https://github.com/Nervengift), [andi](https://github.com/fread), [DrLuke](https://github.com/DrLuke), [twi](https://github.com/twiddau)
+
 ## License
 
 See `LICENSE.txt` for more information.
