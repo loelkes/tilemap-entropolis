@@ -22,4 +22,4 @@ In no particular order: [obelix](https://github.com/loelkes), [Tree](https://git
 
 ## License
 
-See `LICENSE.txt` for more information.
+See [LICENSE.md](LICENSE.md) for more information.
